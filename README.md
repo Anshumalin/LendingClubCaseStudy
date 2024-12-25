@@ -27,9 +27,7 @@ This Case study to identify the risky loan applicants and find out the factors t
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Jupyter notebook,pandas,matplotlib,seaborn and python .
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
@@ -41,7 +39,7 @@ Give credit here.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@Anshumalin] - feel free to contact me!
 
 
 <!-- Optional -->
