@@ -29,9 +29,9 @@ This Case study to identify the risky loan applicants and find out the factors t
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project is based on upGrad course material on Exploratory Data Analysis.
+
+- Stackoverflow for all the seaborn and matplot commands .
 
 
 ## Contact
